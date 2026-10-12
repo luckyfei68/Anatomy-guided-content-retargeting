@@ -1,0 +1,5 @@
+Method,Lung area on canvas (%),Original lung covered (%),Original-coordinate support (%),Canvas padding (%)
+LungBoxFit,27.89,100.00,41.55,54.10
+Isotropic fit,15.44,100.00,100.00,39.06
+Foreground fit,15.72,99.76,78.24,51.35
+AGCR,39.81,96.46,60.94,0.00
