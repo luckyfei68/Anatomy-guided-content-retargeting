@@ -1,0 +1,7 @@
+Measure,Mean AGCR − Basic SC,95% paired bootstrap CI
+Deleted pixels in lung M,"−9,756","[−10,574, −8,932]"
+Deleted pixels in non-lung N,"+9,699","[8,772, 10,612]"
+Deleted pixels in background Q,+57,"[−192, 317]"
+"Lung loss, original mask",−13.91 pp,"[−14.85, −12.96]"
+"Lung loss, 5-mm dilated mask",−9.79 pp,"[−10.44, −9.12]"
+Loss in outer 0–5 mm band,+12.74 pp,"[11.25, 14.23]"
